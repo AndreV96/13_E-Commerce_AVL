@@ -1,6 +1,7 @@
-TODO: Create schemas (init method) for category, product, tag and product tag
 
-TODO: Create the API routes in routes folder. **Check mini project for POST and PUT routes
+TODO: ask if there is something missing regarding the routes in pproductTag
 
-TODO: sync sequelize models to the database, then turn on the server
+TODO: Test the products, put and post routes
+
+TODO: make walkthrough video, README and upload repo and video
 
