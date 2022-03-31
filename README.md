@@ -1,11 +1,11 @@
-# E-Commerce Server
+# E-Commerce API
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
-The purpose of this respository is to create an API that will connect with a database that has all the product information from an E-commerce. The repository is a server that connects through all its http routes using node and express to a mysql service. It uses sequelize to establish a connection with the server, create all the table information, seed and corresponding query routes.
+The purpose of this respository is to create an API server that connects with a database that has all the product information from an E-commerce. The repository is a server that connects through all its http routes using node and express to a mysql service. It uses sequelize to establish a connection with the server, create all the table information, seed and corresponding query routes.
 
-GitHub Repo: https://github.com/AndreV96/13_E-Commerce_AVL.git
+GitHub Repo: https://github.com/AndreV96/E-Commerce_API
 
 Application functionality video: https://drive.google.com/file/d/1p4jcyFue8C_S1HtNv2vEgdrNP12JkCVs/view
 
