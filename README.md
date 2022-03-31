@@ -9,6 +9,12 @@ GitHub Repo: https://github.com/AndreV96/13_E-Commerce_AVL.git
 
 Application functionality video: https://drive.google.com/file/d/1p4jcyFue8C_S1HtNv2vEgdrNP12JkCVs/view
 
+## Insomnia Calls Screenshots
+
+![Deployed Webpage](img/Insomnia_Get_All_Products.png)
+
+![Deployed Webpage](img/Insomnia_Get_One_Product.png)
+
 ## Table of Contents 
 
 - [Installation](#installation)
