@@ -11,9 +11,9 @@ Application functionality video: https://drive.google.com/file/d/1p4jcyFue8C_S1H
 
 ## Insomnia Calls Screenshots
 
-![Deployed Webpage](/img/Insomnia_Get_All_Products.png)
+![Deployed Webpage](/img/Insomnia_Get_All_Products.PNG)
 
-![Deployed Webpage](/img/Insomnia_Get_One_Product.png)
+![Deployed Webpage](/img/Insomnia_Get_One_Product.PNG)
 
 ## Table of Contents 
 
